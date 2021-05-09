@@ -9,3 +9,4 @@ App Link : https://heart-disease-detection--app.herokuapp.com/
 ![Screenshot](heart_app.PNG)
 
 ![](heart_app_gif.gif)
+
